@@ -13,9 +13,9 @@ TANK Game - PyGame Project
 
     ESC - выход из игры
 
-Особенности игры
-<img width="798" height="1015" alt="Снимок экрана_20260129_194233" src="https://github.com/user-attachments/assets/481aa739-825a-4a47-8ffc-2303ff641667" />
 
+<img width="798" height="1015" alt="Снимок экрана_20260129_194233" src="https://github.com/user-attachments/assets/481aa739-825a-4a47-8ffc-2303ff641667" />
+Особенности игры
     Управление танком в горизонтальной плоскости
 
     Система стрельбы с ограничением по скорости выстрелов
